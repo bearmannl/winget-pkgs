@@ -1,3 +1,4 @@
+# Automatically updated by the winget bot at 2021/Jun/17
 PackageIdentifier: Autodesk.Fusion360
 PackageVersion: latest
 PackageName: Fusion 360
@@ -8,7 +9,7 @@ PackageUrl: https://www.autodesk.com/products/fusion-360/overview
 Installers:
 - Architecture: x86
   InstallerUrl: https://dl.appstreaming.autodesk.com/production/installers/Fusion%20360%20Admin%20Install.exe
-  InstallerSha256: 3a4ef65ddec80704dea4cf43df3fa8b3c40703db5817077e613d5875e909589d
+  InstallerSha256: 0C0DC28050BF56CA9F9049596D9B37D43C212A187B1646DD4AD63797B1D46946
   InstallerType: exe
   InstallerSwitches:
     Silent: --quiet
